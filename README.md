@@ -1,6 +1,8 @@
 # Daniel Fuller
 Hello!  
-I'm Daniel Fuller, a student at Brigham Young University-Idaho interested in computer physics simulations and software for aerospace systems...>. Welcome to my GitHub profile!
+I'm Daniel Fuller, a student at Brigham Young University-Idaho interested in computer physics simulations and software for aerospace systems.  
+
+Welcome to my GitHub profile!
 
 ## About Me
 
