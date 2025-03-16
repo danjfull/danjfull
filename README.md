@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/daniel-dj-fuller/) profile
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+Happy coding! 🚀
 
 
 <!--
