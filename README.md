@@ -6,14 +6,14 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning Numerical Modeling for Physics applications
+- I'm currently learning parallelism and concurrency. I am also learning the basics of cross-platform software developlment, OpenGL, Python networking, and mobile app development.
 - My goals are to work in the aerospace industry on software that controls or guides a spacecraft, aircraft, or autonomous system.
-- Ask me about rigid body simulation, orbital simulations, 
+- Ask me about rigid body simulation, orbital simulations, 3D graphics backend calculations, or parallel processing
 
 ## Technologies and Tools
 
-- Proficient in: C#, Python, C++, Mathematica, Arduino, familiar with Clojure
-- Skills: Optimization, Modularity, Mathematical equation manipulation, Physics Simulations, curve fitting, error minimization, statistics and probabilities
+- Proficient in: C#, Python, C++, Mathematica, Arduino IDE, familiar with Clojure
+- Skills: git branch management, optimization, threading, parallel processing, 3D graphics, abstraction, mathematical equation manipulation, physics simulations, curve fitting, error minimization, statistics and probabilities
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
